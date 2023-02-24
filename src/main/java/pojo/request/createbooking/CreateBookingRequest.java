@@ -28,6 +28,7 @@ public class CreateBookingRequest {
 	public boolean depositpaid;
 	public String additionalneeds;
 	public Bookingdates bookingdates;
+	
 
 	public String getFirstname() {
 		return firstname;
